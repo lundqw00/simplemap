@@ -7,7 +7,7 @@ var simplemaps_worldmap_mapdata={
     popups: "detect",
     
     //State defaults
-    state_description: "State description",
+    state_description: "5 GHz (unlicensed spectrum)",
     state_color: "#D7D8D9",
     state_hover_color: "#415364",
     state_url: "",
